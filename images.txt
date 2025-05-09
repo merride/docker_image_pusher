@@ -6,7 +6,7 @@ lobehub/lobe-chat:latest
 zilliz/attu:latest
 stawky/m3e-large-api:latest
 nyanmisaka/jellyfin:latest
-signalwire/freeswitch:latest
+signalwire/freeswitch-public-base:latest
 jellyfin/jellyfin:2025031005
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
