@@ -1,5 +1,6 @@
 #minio/minio:RELEASE.2024-07-29T22-14-52Z
 node:20.18.0
+mysql:8.0.43-bookworm
 #quay.io/coreos/etcd:v3.5.5
 #ghcr.io/open-webui/open-webui:main
 #redis:7.4.5
