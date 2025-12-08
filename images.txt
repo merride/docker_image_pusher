@@ -16,7 +16,6 @@ semitechnologies/weaviate:1.19.0
 nginx:latest
 certbot/certbot
 ubuntu/squid:latest
-node:20.18.0、
 vastdata/vastbase-vector
 mysql:8.0.43-bookworm
 #quay.io/coreos/etcd:v3.5.5
