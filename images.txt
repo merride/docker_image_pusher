@@ -1,5 +1,8 @@
 #minio/minio:RELEASE.2024-07-29T22-14-52Z
-
+zabbix/zabbix-web-nginx-pgsql
+zabbix/zabbix-server-pgsql
+zabbix/zabbix-proxy-sqlite3
+zabbix/zabbix-agent2
 
 tensorchord/pgvecto-rs:pg16-v0.3.0
 oceanbase/oceanbase-ce:4.3.5-lts
