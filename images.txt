@@ -3,6 +3,7 @@ zabbix/zabbix-web-nginx-pgsql
 zabbix/zabbix-server-pgsql
 zabbix/zabbix-proxy-sqlite3
 zabbix/zabbix-agent2
+zabbix/zabbix-appliance
 
 tensorchord/pgvecto-rs:pg16-v0.3.0
 oceanbase/oceanbase-ce:4.3.5-lts
