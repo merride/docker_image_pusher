@@ -2,6 +2,7 @@
 zabbix/zabbix-web-nginx-pgsql
 zabbix/zabbix-server-pgsql
 zabbix/zabbix-proxy-sqlite3
+zabbix/zabbix-proxy-sqlite3:7.4.6-centos
 zabbix/zabbix-agent2
 zabbix/zabbix-agent:centos-4.0.50
 zabbix/zabbix-appliance
